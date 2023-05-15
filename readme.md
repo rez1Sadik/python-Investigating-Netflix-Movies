@@ -66,7 +66,13 @@ ax.set_title('Movie Duration by Year of Release')
 # Show the plot
 plt.show()
 
-#After inspecting the plot, answer the question "Are we certain that movies are getting shorter?"
+# After inspecting the plot, answer the question "Are we certain that movies are getting shorter?"
+## After inspecting the scatter plot, we cannot be certain whether movies are getting shorter. 
+## The plot provides a visualization of movie duration by year of release, showing the relationship between these two variables. 
+## However, to determine if movies are getting shorter, we need to analyze additional information, such as statistical trends or 
+## a more comprehensive examination of the dataset. Therefore, the answer should be "maybe."
+
+
 answer="maybe"
 ```
 
