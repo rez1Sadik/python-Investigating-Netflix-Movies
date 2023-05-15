@@ -1,4 +1,4 @@
-<center><img src="redpopcorn.jpg" alt="Movie popcorn on red background" width="700"></center>
+![](images/redpopcorn.jpg)
 
 **Netflix**! What started in 1997 as a DVD rental service has since exploded into one of the largest entertainment and media companies.
 
@@ -78,6 +78,6 @@ answer="maybe"
 
 
     
-![png](output_2_0.png)
+![png](images/output_2_0.png)
     
 
